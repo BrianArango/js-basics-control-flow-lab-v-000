@@ -1,4 +1,5 @@
 // Write your code in this file!
+<<<<<<< HEAD
 function scuberGreetingForFeet(freeSample)  {
     let result;
     if (freeSample <= 400) {
@@ -41,3 +42,13 @@ switch (tip) {
   }
   return result;
 }
+=======
+let freeSample = 400;
+
+let scuberGreetingForFeet();
+
+if (freeSample <= 400) {
+    scuberGreetingForFeet() = 'This one is one me!'; 
+}
+scuberGreetingForFeet();
+>>>>>>> 514726835f50727782bbf5764f873152e95a45ad
